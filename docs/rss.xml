@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HoistBeamIndex Overhead Gantry Crane & Rigging Sizing Database</title>
+    <link>https://hanifsalman11.github.io/hoist-beam-index/</link>
+    <description>Interactive Gantry Crane Steel I-Beam Deflection, Electric Chain Hoist & Sling Angle Calculators</description>
+    <atom:link href="https://hanifsalman11.github.io/hoist-beam-index/rss.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
+    <item>
+      <title>1-Ton (2,000 Lb) Gantry Crane on 15-Ft Span (W8×18 I-Beam) I-Beam Deflection, Trolley & Sling Angle Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/hoist-beam-index/1-ton-2000-lb-gantry-crane-on-15-ft-span-w818-i-beam-ibeam-sling-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/hoist-beam-index/1-ton-2000-lb-gantry-crane-on-15-ft-span-w818-i-beam-ibeam-sling-calculator.html</guid>
+      <description>Calculate exact A36 steel I-beam deflection (0.164" vs 0.3" L/600 limit on W8×18 Wide-Flange), 5.25" trolley flange fit, and ASME B30.9 2-leg sling tension (1,155 lbs @ 60°) for 1-Ton (2,000 Lb) Gantry Crane on 15-Ft Span (W8×18 I-Beam).</description>
+    </item>
+    <item>
+      <title>1-Ton (2,000 Lb) Gantry Crane on 12-Ft Span (W8×15 I-Beam) I-Beam Deflection, Trolley & Sling Angle Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/hoist-beam-index/1-ton-2000-lb-gantry-crane-on-12-ft-span-w815-i-beam-ibeam-sling-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/hoist-beam-index/1-ton-2000-lb-gantry-crane-on-12-ft-span-w815-i-beam-ibeam-sling-calculator.html</guid>
+      <description>Calculate exact A36 steel I-beam deflection (0.108" vs 0.24" L/600 limit on W8×15 Wide-Flange), 4.01" trolley flange fit, and ASME B30.9 2-leg sling tension (1,155 lbs @ 60°) for 1-Ton (2,000 Lb) Gantry Crane on 12-Ft Span (W8×15 I-Beam).</description>
+    </item>
+    <item>
+      <title>1-Ton (2,000 Lb) Gantry Crane on 10-Ft Span (W6×12 I-Beam) I-Beam Deflection, Trolley & Sling Angle Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/hoist-beam-index/1-ton-2000-lb-gantry-crane-on-10-ft-span-w612-i-beam-ibeam-sling-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/hoist-beam-index/1-ton-2000-lb-gantry-crane-on-10-ft-span-w612-i-beam-ibeam-sling-calculator.html</guid>
+      <description>Calculate exact A36 steel I-beam deflection (0.136" vs 0.2" L/600 limit on W6×12 Wide-Flange), 4.0" trolley flange fit, and ASME B30.9 2-leg sling tension (1,155 lbs @ 60°) for 1-Ton (2,000 Lb) Gantry Crane on 10-Ft Span (W6×12 I-Beam).</description>
+    </item>
+  </channel>
+</rss>
