@@ -97,5 +97,38 @@
     "beam": "W12×30",
     "defl": 0.124,
     "date": "2026-11-11"
+  },
+  {
+    "hoist_name": "5-Ton (10,000 Lb) Shop Bridge Crane on 15-Ft Span (W12×45)",
+    "slug": "5-ton-10000-lb-shop-bridge-crane-on-15-ft-span-w1245-ibeam-sling-calculator",
+    "title": "5-Ton (10,000 Lb) Shop Bridge Crane on 15-Ft Span (W12×45) I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.14\" vs 0.3\" L/600 limit on W12×45 Wide-Flange), 8.05\" trolley flange fit, and ASME B30.9 2-leg sling tension (5,774 lbs @ 60°) for 5-Ton (10,000 Lb) Shop Bridge Crane on 15-Ft Span (W12×45).",
+    "tons": 5.0,
+    "span_ft": 15,
+    "beam": "W12×45",
+    "defl": 0.14,
+    "date": "2026-11-11"
+  },
+  {
+    "hoist_name": "1/2-Ton (1,000 Lb) Garage Hoist on 12-Ft Span (S6×12.5 Beam)",
+    "slug": "12-ton-1000-lb-garage-hoist-on-12-ft-span-s6125-beam-ibeam-sling-calculator",
+    "title": "1/2-Ton (1,000 Lb) Garage Hoist on 12-Ft Span (S6×12.5 Beam) I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.123\" vs 0.24\" L/600 limit on S6×12.5 Standard I-Beam), 3.33\" trolley flange fit, and ASME B30.9 2-leg sling tension (577 lbs @ 60°) for 1/2-Ton (1,000 Lb) Garage Hoist on 12-Ft Span (S6×12.5 Beam).",
+    "tons": 0.5,
+    "span_ft": 12,
+    "beam": "S6×12.5",
+    "defl": 0.123,
+    "date": "2026-11-11"
+  },
+  {
+    "hoist_name": "Harrington NER / ER 1-Ton & 2-Ton Electric Chain Hoist",
+    "slug": "harrington-ner-er-1-ton-2-ton-electric-chain-hoist-ibeam-sling-calculator",
+    "title": "Harrington NER / ER 1-Ton & 2-Ton Electric Chain Hoist I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.122\" vs 0.24\" L/600 limit on W8×24 Wide-Flange), 6.5\" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for Harrington NER / ER 1-Ton & 2-Ton Electric Chain Hoist.",
+    "tons": 2.0,
+    "span_ft": 12,
+    "beam": "W8×24",
+    "defl": 0.122,
+    "date": "2026-11-11"
   }
 ]
