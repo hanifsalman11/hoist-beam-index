@@ -163,5 +163,38 @@
     "beam": "W8×24",
     "defl": 0.122,
     "date": "2026-11-12"
+  },
+  {
+    "hoist_name": "VEVOR 2200-Lb (1-Ton) & 4400-Lb (2-Ton) Electric Wire/Chain Hoist",
+    "slug": "vevor-2200-lb-1-ton-4400-lb-2-ton-electric-wirechain-hoist-ibeam-sling-calculator",
+    "title": "VEVOR 2200-Lb (1-Ton) & 4400-Lb (2-Ton) Electric Wire/Chain Hoist I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.149\" vs 0.2\" L/600 limit on W6×12 / S6×12.5 Beam), 4.0\" trolley flange fit, and ASME B30.9 2-leg sling tension (1,270 lbs @ 60°) for VEVOR 2200-Lb (1-Ton) & 4400-Lb (2-Ton) Electric Wire/Chain Hoist.",
+    "tons": 1.1,
+    "span_ft": 10,
+    "beam": "W6×12",
+    "defl": 0.149,
+    "date": "2026-11-12"
+  },
+  {
+    "hoist_name": "Coffing JLC 1-Ton & 2-Ton Heavy-Duty Electric Chain Hoist",
+    "slug": "coffing-jlc-1-ton-2-ton-heavy-duty-electric-chain-hoist-ibeam-sling-calculator",
+    "title": "Coffing JLC 1-Ton & 2-Ton Heavy-Duty Electric Chain Hoist I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.122\" vs 0.24\" L/600 limit on W8×24 Wide-Flange), 6.5\" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for Coffing JLC 1-Ton & 2-Ton Heavy-Duty Electric Chain Hoist.",
+    "tons": 2.0,
+    "span_ft": 12,
+    "beam": "W8×24",
+    "defl": 0.122,
+    "date": "2026-11-12"
+  },
+  {
+    "hoist_name": "Vestil A-Frame Steel Gantry Crane (2,000 Lb & 4,000 Lb) Sizing",
+    "slug": "vestil-a-frame-steel-gantry-crane-2000-lb-4000-lb-sizing-ibeam-sling-calculator",
+    "title": "Vestil A-Frame Steel Gantry Crane (2,000 Lb & 4,000 Lb) Sizing I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.102\" vs 0.2\" L/600 limit on S8×18.4 Standard I-Beam), 4.0\" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for Vestil A-Frame Steel Gantry Crane (2,000 Lb & 4,000 Lb) Sizing.",
+    "tons": 2.0,
+    "span_ft": 10,
+    "beam": "S8×18.4",
+    "defl": 0.102,
+    "date": "2026-11-12"
   }
 ]
