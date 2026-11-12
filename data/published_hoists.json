@@ -196,5 +196,38 @@
     "beam": "S8×18.4",
     "defl": 0.102,
     "date": "2026-11-12"
+  },
+  {
+    "hoist_name": "Spanco / Gorbel Work Station Jib & Gantry Crane Beam Sizing",
+    "slug": "spanco-gorbel-work-station-jib-gantry-crane-beam-sizing-ibeam-sling-calculator",
+    "title": "Spanco / Gorbel Work Station Jib & Gantry Crane Beam Sizing I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.084\" vs 0.24\" L/600 limit on W8×18 Wide-Flange), 5.25\" trolley flange fit, and ASME B30.9 2-leg sling tension (1,155 lbs @ 60°) for Spanco / Gorbel Work Station Jib & Gantry Crane Beam Sizing.",
+    "tons": 1.0,
+    "span_ft": 12,
+    "beam": "W8×18",
+    "defl": 0.084,
+    "date": "2026-11-12"
+  },
+  {
+    "hoist_name": "S6×12.5 vs W6×12 Steel I-Beam Trolley & Point-Load Capacity",
+    "slug": "s6125-vs-w612-steel-i-beam-trolley-point-load-capacity-ibeam-sling-calculator",
+    "title": "S6×12.5 vs W6×12 Steel I-Beam Trolley & Point-Load Capacity I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.136\" vs 0.2\" L/600 limit on S6×12.5 vs W6×12 Beam), 4.0\" trolley flange fit, and ASME B30.9 2-leg sling tension (1,155 lbs @ 60°) for S6×12.5 vs W6×12 Steel I-Beam Trolley & Point-Load Capacity.",
+    "tons": 1.0,
+    "span_ft": 10,
+    "beam": "S6×12.5",
+    "defl": 0.136,
+    "date": "2026-11-12"
+  },
+  {
+    "hoist_name": "S8×18.4 vs W8×18 Steel I-Beam Deflection & Hoist Capacity",
+    "slug": "s8184-vs-w818-steel-i-beam-deflection-hoist-capacity-ibeam-sling-calculator",
+    "title": "S8×18.4 vs W8×18 Steel I-Beam Deflection & Hoist Capacity I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.164\" vs 0.24\" L/600 limit on S8×18.4 vs W8×18 Beam), 5.25\" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for S8×18.4 vs W8×18 Steel I-Beam Deflection & Hoist Capacity.",
+    "tons": 2.0,
+    "span_ft": 12,
+    "beam": "S8×18.4",
+    "defl": 0.164,
+    "date": "2026-11-12"
   }
 ]
