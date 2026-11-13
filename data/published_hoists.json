@@ -229,5 +229,38 @@
     "beam": "S8×18.4",
     "defl": 0.164,
     "date": "2026-11-12"
+  },
+  {
+    "hoist_name": "W10×22 vs W10×26 Steel Wide-Flange Beam Hoist Capacity",
+    "slug": "w1022-vs-w1026-steel-wide-flange-beam-hoist-capacity-ibeam-sling-calculator",
+    "title": "W10×22 vs W10×26 Steel Wide-Flange Beam Hoist Capacity I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.137\" vs 0.3\" L/600 limit on W10×26 Wide-Flange), 5.77\" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for W10×22 vs W10×26 Steel Wide-Flange Beam Hoist Capacity.",
+    "tons": 2.0,
+    "span_ft": 15,
+    "beam": "W10×26",
+    "defl": 0.137,
+    "date": "2026-11-13"
+  },
+  {
+    "hoist_name": "W12×26 vs W12×35 Garage Ceiling Ridge Beam Hoist Capacity",
+    "slug": "w1226-vs-w1235-garage-ceiling-ridge-beam-hoist-capacity-ibeam-sling-calculator",
+    "title": "W12×26 vs W12×35 Garage Ceiling Ridge Beam Hoist Capacity I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.12\" vs 0.36\" L/600 limit on W12×35 Wide-Flange), 6.56\" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for W12×26 vs W12×35 Garage Ceiling Ridge Beam Hoist Capacity.",
+    "tons": 2.0,
+    "span_ft": 18,
+    "beam": "W12×35",
+    "defl": 0.12,
+    "date": "2026-11-13"
+  },
+  {
+    "hoist_name": "ASME B30.9 2-Leg & 4-Leg Chain Sling Angle Tension (60° vs 45° vs 30°)",
+    "slug": "asme-b309-2-leg-4-leg-chain-sling-angle-tension-60-vs-45-vs-30-ibeam-sling-calculator",
+    "title": "ASME B30.9 2-Leg & 4-Leg Chain Sling Angle Tension (60° vs 45° vs 30°) I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.122\" vs 0.24\" L/600 limit on Grade 80 / 100 Alloy Chain), 6.5\" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for ASME B30.9 2-Leg & 4-Leg Chain Sling Angle Tension (60° vs 45° vs 30°).",
+    "tons": 2.0,
+    "span_ft": 12,
+    "beam": "Grade",
+    "defl": 0.122,
+    "date": "2026-11-13"
   }
 ]
