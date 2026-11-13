@@ -262,5 +262,38 @@
     "beam": "Grade",
     "defl": 0.122,
     "date": "2026-11-13"
+  },
+  {
+    "hoist_name": "3/8-Inch vs 1/2-Inch Grade 100 Alloy Overhead Lifting Chain Sling",
+    "slug": "38-inch-vs-12-inch-grade-100-alloy-overhead-lifting-chain-sling-ibeam-sling-calculator",
+    "title": "3/8-Inch vs 1/2-Inch Grade 100 Alloy Overhead Lifting Chain Sling I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.105\" vs 0.24\" L/600 limit on W10×26 Wide-Flange), 5.77\" trolley flange fit, and ASME B30.9 2-leg sling tension (3,464 lbs @ 60°) for 3/8-Inch vs 1/2-Inch Grade 100 Alloy Overhead Lifting Chain Sling.",
+    "tons": 3.0,
+    "span_ft": 12,
+    "beam": "W10×26",
+    "defl": 0.105,
+    "date": "2026-11-13"
+  },
+  {
+    "hoist_name": "Push vs Geared vs Motorized I-Beam Trolley Flange Width Sizing",
+    "slug": "push-vs-geared-vs-motorized-i-beam-trolley-flange-width-sizing-ibeam-sling-calculator",
+    "title": "Push vs Geared vs Motorized I-Beam Trolley Flange Width Sizing I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.122\" vs 0.24\" L/600 limit on W8×24 Wide-Flange), 6.5\" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for Push vs Geared vs Motorized I-Beam Trolley Flange Width Sizing.",
+    "tons": 2.0,
+    "span_ft": 12,
+    "beam": "W8×24",
+    "defl": 0.122,
+    "date": "2026-11-13"
+  },
+  {
+    "hoist_name": "Automotive V8 Engine & Transmission Pull (1,500 Lb) Gantry Setup",
+    "slug": "automotive-v8-engine-transmission-pull-1500-lb-gantry-setup-ibeam-sling-calculator",
+    "title": "Automotive V8 Engine & Transmission Pull (1,500 Lb) Gantry Setup I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.136\" vs 0.2\" L/600 limit on W6×12 Wide-Flange), 4.0\" trolley flange fit, and ASME B30.9 2-leg sling tension (1,155 lbs @ 60°) for Automotive V8 Engine & Transmission Pull (1,500 Lb) Gantry Setup.",
+    "tons": 1.0,
+    "span_ft": 10,
+    "beam": "W6×12",
+    "defl": 0.136,
+    "date": "2026-11-13"
   }
 ]
