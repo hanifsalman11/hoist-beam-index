@@ -295,5 +295,38 @@
     "beam": "W6×12",
     "defl": 0.136,
     "date": "2026-11-13"
+  },
+  {
+    "hoist_name": " Tractor & Skid-Steer Implement Service (4,000 Lb) Shop Crane",
+    "slug": "tractor-skid-steer-implement-service-4000-lb-shop-crane-ibeam-sling-calculator",
+    "title": " Tractor & Skid-Steer Implement Service (4,000 Lb) Shop Crane I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.136\" vs 0.28\" L/600 limit on W10×22 Wide-Flange), 5.75\" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for  Tractor & Skid-Steer Implement Service (4,000 Lb) Shop Crane.",
+    "tons": 2.0,
+    "span_ft": 14,
+    "beam": "W10×22",
+    "defl": 0.136,
+    "date": "2026-11-14"
+  },
+  {
+    "hoist_name": "1-Ton & 2-Ton Lever Chain Come-Along & Manual Hand Chain Fall",
+    "slug": "1-ton-2-ton-lever-chain-come-along-manual-hand-chain-fall-ibeam-sling-calculator",
+    "title": "1-Ton & 2-Ton Lever Chain Come-Along & Manual Hand Chain Fall I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.122\" vs 0.24\" L/600 limit on W8×24 Wide-Flange), 6.5\" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for 1-Ton & 2-Ton Lever Chain Come-Along & Manual Hand Chain Fall.",
+    "tons": 2.0,
+    "span_ft": 12,
+    "beam": "W8×24",
+    "defl": 0.122,
+    "date": "2026-11-14"
+  },
+  {
+    "hoist_name": "Wood Garage Ceiling Joist vs Steel I-Beam Hoist Support Sizing",
+    "slug": "wood-garage-ceiling-joist-vs-steel-i-beam-hoist-support-sizing-ibeam-sling-calculator",
+    "title": "Wood Garage Ceiling Joist vs Steel I-Beam Hoist Support Sizing I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.084\" vs 0.24\" L/600 limit on W8×18 Steel Retrofit), 5.25\" trolley flange fit, and ASME B30.9 2-leg sling tension (1,155 lbs @ 60°) for Wood Garage Ceiling Joist vs Steel I-Beam Hoist Support Sizing.",
+    "tons": 1.0,
+    "span_ft": 12,
+    "beam": "W8×18",
+    "defl": 0.084,
+    "date": "2026-11-14"
   }
 ]
