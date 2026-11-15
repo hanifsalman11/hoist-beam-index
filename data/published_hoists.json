@@ -427,5 +427,38 @@
     "beam": "W8×24",
     "defl": 0.122,
     "date": "2026-11-15"
+  },
+  {
+    "hoist_name": "10 Foot Span",
+    "slug": "10-foot-span-ibeam-sling-calculator",
+    "title": "10 Foot Span I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.122\" vs 0.24\" L/600 limit on W8×24 Wide-Flange), 5.5\" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for 10 Foot Span.",
+    "tons": 2.0,
+    "span_ft": 12,
+    "beam": "W8×24",
+    "defl": 0.122,
+    "date": "2026-11-15"
+  },
+  {
+    "hoist_name": "Gantry Crane Beam",
+    "slug": "gantry-crane-beam-ibeam-sling-calculator",
+    "title": "Gantry Crane Beam I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.122\" vs 0.24\" L/600 limit on W8×24 Wide-Flange), 5.5\" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for Gantry Crane Beam.",
+    "tons": 2.0,
+    "span_ft": 12,
+    "beam": "W8×24",
+    "defl": 0.122,
+    "date": "2026-11-15"
+  },
+  {
+    "hoist_name": "Overhead Crane Beam",
+    "slug": "overhead-crane-beam-ibeam-sling-calculator",
+    "title": "Overhead Crane Beam I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.122\" vs 0.24\" L/600 limit on W8×24 Wide-Flange), 5.5\" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for Overhead Crane Beam.",
+    "tons": 2.0,
+    "span_ft": 12,
+    "beam": "W8×24",
+    "defl": 0.122,
+    "date": "2026-11-15"
   }
 ]
