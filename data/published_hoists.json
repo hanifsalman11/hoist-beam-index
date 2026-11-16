@@ -493,5 +493,38 @@
     "beam": "W8×24",
     "defl": 0.122,
     "date": "2026-11-16"
+  },
+  {
+    "hoist_name": "Gantry Crane Height",
+    "slug": "gantry-crane-height-ibeam-sling-calculator",
+    "title": "Gantry Crane Height I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.122\" vs 0.24\" L/600 limit on W8×24 Wide-Flange), 5.5\" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for Gantry Crane Height.",
+    "tons": 2.0,
+    "span_ft": 12,
+    "beam": "W8×24",
+    "defl": 0.122,
+    "date": "2026-11-16"
+  },
+  {
+    "hoist_name": "How Does A Gantry Crane Work",
+    "slug": "how-does-a-gantry-crane-work-ibeam-sling-calculator",
+    "title": "How Does A Gantry Crane Work I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.122\" vs 0.24\" L/600 limit on W8×24 Wide-Flange), 5.5\" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for How Does A Gantry Crane Work.",
+    "tons": 2.0,
+    "span_ft": 12,
+    "beam": "W8×24",
+    "defl": 0.122,
+    "date": "2026-11-16"
+  },
+  {
+    "hoist_name": "Gantry Crane Description",
+    "slug": "gantry-crane-description-ibeam-sling-calculator",
+    "title": "Gantry Crane Description I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.122\" vs 0.24\" L/600 limit on W8×24 Wide-Flange), 5.5\" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for Gantry Crane Description.",
+    "tons": 2.0,
+    "span_ft": 12,
+    "beam": "W8×24",
+    "defl": 0.122,
+    "date": "2026-11-16"
   }
 ]
