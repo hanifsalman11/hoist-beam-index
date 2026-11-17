@@ -559,5 +559,38 @@
     "beam": "W8×24",
     "defl": 0.122,
     "date": "2026-11-17"
+  },
+  {
+    "hoist_name": "Electric Chain Hoist 3 Ton",
+    "slug": "electric-chain-hoist-3-ton-ibeam-sling-calculator",
+    "title": "Electric Chain Hoist 3 Ton I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.105\" vs 0.24\" L/600 limit on W10×26 Wide-Flange), 5.5\" trolley flange fit, and ASME B30.9 2-leg sling tension (3,464 lbs @ 60°) for Electric Chain Hoist 3 Ton.",
+    "tons": 3.0,
+    "span_ft": 12,
+    "beam": "W10×26",
+    "defl": 0.105,
+    "date": "2026-11-17"
+  },
+  {
+    "hoist_name": "Electric Chain Hoist 1/2 Ton",
+    "slug": "electric-chain-hoist-12-ton-ibeam-sling-calculator",
+    "title": "Electric Chain Hoist 1/2 Ton I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.122\" vs 0.24\" L/600 limit on W8×24 Wide-Flange), 5.5\" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for Electric Chain Hoist 1/2 Ton.",
+    "tons": 2.0,
+    "span_ft": 12,
+    "beam": "W8×24",
+    "defl": 0.122,
+    "date": "2026-11-17"
+  },
+  {
+    "hoist_name": "Electric Chain Hoist Near Me",
+    "slug": "electric-chain-hoist-near-me-ibeam-sling-calculator",
+    "title": "Electric Chain Hoist Near Me I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.122\" vs 0.24\" L/600 limit on W8×24 Wide-Flange), 5.5\" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for Electric Chain Hoist Near Me.",
+    "tons": 2.0,
+    "span_ft": 12,
+    "beam": "W8×24",
+    "defl": 0.122,
+    "date": "2026-11-17"
   }
 ]
