@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/hoist-beam-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>1-Ton (2,000 Lb) Overhead Hoist on 10-Ft Span I-Beam Deflection, Trolley & Sling Angle Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/hoist-beam-index/1-ton-2000-lb-overhead-hoist-on-10-ft-span-ibeam-sling-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/hoist-beam-index/1-ton-2000-lb-overhead-hoist-on-10-ft-span-ibeam-sling-calculator.html</guid>
+      <description>Calculate exact A36 steel I-beam deflection (0.136" vs 0.2" L/600 limit on W6×12 Wide-Flange), 4.0" trolley flange fit, and ASME B30.9 2-leg sling tension (1,155 lbs @ 60°) for 1-Ton (2,000 Lb) Overhead Hoist on 10-Ft Span.</description>
+    </item>
+    <item>
       <title>1-Ton (2,000 Lb) Overhead Hoist on 8-Ft Span I-Beam Deflection, Trolley & Sling Angle Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/hoist-beam-index/1-ton-2000-lb-overhead-hoist-on-8-ft-span-ibeam-sling-calculator.html</link>
       <guid>https://hanifsalman11.github.io/hoist-beam-index/1-ton-2000-lb-overhead-hoist-on-8-ft-span-ibeam-sling-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/hoist-beam-index/gantry-crane-beam-design-calculation-pdf-ibeam-sling-calculator.html</link>
       <guid>https://hanifsalman11.github.io/hoist-beam-index/gantry-crane-beam-design-calculation-pdf-ibeam-sling-calculator.html</guid>
       <description>Calculate exact A36 steel I-beam deflection (0.122" vs 0.24" L/600 limit on W8×24 Wide-Flange), 5.5" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for Gantry Crane Beam Design Calculation Pdf.</description>
-    </item>
-    <item>
-      <title>Bridge Crane Beam Calculation I-Beam Deflection, Trolley & Sling Angle Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/hoist-beam-index/bridge-crane-beam-calculation-ibeam-sling-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/hoist-beam-index/bridge-crane-beam-calculation-ibeam-sling-calculator.html</guid>
-      <description>Calculate exact A36 steel I-beam deflection (0.122" vs 0.24" L/600 limit on W8×24 Wide-Flange), 5.5" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for Bridge Crane Beam Calculation.</description>
     </item>
   </channel>
 </rss>
