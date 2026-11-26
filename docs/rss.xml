@@ -7,6 +7,24 @@
     <atom:link href="https://hanifsalman11.github.io/hoist-beam-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>Electric Chain Hoist 5 Ton I-Beam Deflection, Trolley & Sling Angle Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/hoist-beam-index/electric-chain-hoist-5-ton-ibeam-sling-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/hoist-beam-index/electric-chain-hoist-5-ton-ibeam-sling-calculator.html</guid>
+      <description>Calculate exact A36 steel I-beam deflection (0.173" vs 0.24" L/600 limit on W10×26 Wide-Flange), 5.5" trolley flange fit, and ASME B30.9 2-leg sling tension (5,774 lbs @ 60°) for Electric Chain Hoist 5 Ton.</description>
+    </item>
+    <item>
+      <title>Electric Chain Hoist Milwaukee I-Beam Deflection, Trolley & Sling Angle Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/hoist-beam-index/electric-chain-hoist-milwaukee-ibeam-sling-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/hoist-beam-index/electric-chain-hoist-milwaukee-ibeam-sling-calculator.html</guid>
+      <description>Calculate exact A36 steel I-beam deflection (0.122" vs 0.24" L/600 limit on W8×24 Wide-Flange), 5.5" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for Electric Chain Hoist Milwaukee.</description>
+    </item>
+    <item>
+      <title>Log Splitter I-Beam Deflection, Trolley & Sling Angle Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/hoist-beam-index/log-splitter-ibeam-sling-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/hoist-beam-index/log-splitter-ibeam-sling-calculator.html</guid>
+      <description>Calculate exact A36 steel I-beam deflection (0.122" vs 0.24" L/600 limit on W8×24 Wide-Flange), 5.5" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for Log Splitter.</description>
+    </item>
+    <item>
       <title>1-Ton (2,000 Lb) Overhead Hoist on 18-Ft Span I-Beam Deflection, Trolley & Sling Angle Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/hoist-beam-index/1-ton-2000-lb-overhead-hoist-on-18-ft-span-ibeam-sling-calculator.html</link>
       <guid>https://hanifsalman11.github.io/hoist-beam-index/1-ton-2000-lb-overhead-hoist-on-18-ft-span-ibeam-sling-calculator.html</guid>
@@ -167,24 +185,6 @@
       <link>https://hanifsalman11.github.io/hoist-beam-index/electric-chain-hoist-3-ton-ibeam-sling-calculator.html</link>
       <guid>https://hanifsalman11.github.io/hoist-beam-index/electric-chain-hoist-3-ton-ibeam-sling-calculator.html</guid>
       <description>Calculate exact A36 steel I-beam deflection (0.105" vs 0.24" L/600 limit on W10×26 Wide-Flange), 5.5" trolley flange fit, and ASME B30.9 2-leg sling tension (3,464 lbs @ 60°) for Electric Chain Hoist 3 Ton.</description>
-    </item>
-    <item>
-      <title>Electric Chain Hoist 2 Ton I-Beam Deflection, Trolley & Sling Angle Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/hoist-beam-index/electric-chain-hoist-2-ton-ibeam-sling-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/hoist-beam-index/electric-chain-hoist-2-ton-ibeam-sling-calculator.html</guid>
-      <description>Calculate exact A36 steel I-beam deflection (0.122" vs 0.24" L/600 limit on W8×24 Wide-Flange), 5.5" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for Electric Chain Hoist 2 Ton.</description>
-    </item>
-    <item>
-      <title>Electric Chain Hoist Harbor Freight I-Beam Deflection, Trolley & Sling Angle Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/hoist-beam-index/electric-chain-hoist-harbor-freight-ibeam-sling-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/hoist-beam-index/electric-chain-hoist-harbor-freight-ibeam-sling-calculator.html</guid>
-      <description>Calculate exact A36 steel I-beam deflection (0.122" vs 0.24" L/600 limit on W8×24 Wide-Flange), 5.5" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for Electric Chain Hoist Harbor Freight.</description>
-    </item>
-    <item>
-      <title>Electric Chain Hoist 1 Ton I-Beam Deflection, Trolley & Sling Angle Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/hoist-beam-index/electric-chain-hoist-1-ton-ibeam-sling-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/hoist-beam-index/electric-chain-hoist-1-ton-ibeam-sling-calculator.html</guid>
-      <description>Calculate exact A36 steel I-beam deflection (0.084" vs 0.24" L/600 limit on W8×18 Wide-Flange), 5.5" trolley flange fit, and ASME B30.9 2-leg sling tension (1,155 lbs @ 60°) for Electric Chain Hoist 1 Ton.</description>
     </item>
   </channel>
 </rss>
