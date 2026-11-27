@@ -7,6 +7,12 @@
     <atom:link href="https://hanifsalman11.github.io/hoist-beam-index/rss.xml" rel="self" type="application/rss+xml" />
     <atom:link href="https://pubsubhubbub.appspot.com/" rel="hub" />
     <item>
+      <title>1.5-Ton (3,000 Lb) Overhead Hoist on 8-Ft Span I-Beam Deflection, Trolley & Sling Angle Calculator (2026)</title>
+      <link>https://hanifsalman11.github.io/hoist-beam-index/15-ton-3000-lb-overhead-hoist-on-8-ft-span-ibeam-sling-calculator.html</link>
+      <guid>https://hanifsalman11.github.io/hoist-beam-index/15-ton-3000-lb-overhead-hoist-on-8-ft-span-ibeam-sling-calculator.html</guid>
+      <description>Calculate exact A36 steel I-beam deflection (0.103" vs 0.16" L/600 limit on W6×12 Wide-Flange), 4.0" trolley flange fit, and ASME B30.9 2-leg sling tension (1,732 lbs @ 60°) for 1.5-Ton (3,000 Lb) Overhead Hoist on 8-Ft Span.</description>
+    </item>
+    <item>
       <title>1-Ton (2,000 Lb) Overhead Hoist on 20-Ft Span I-Beam Deflection, Trolley & Sling Angle Calculator (2026)</title>
       <link>https://hanifsalman11.github.io/hoist-beam-index/1-ton-2000-lb-overhead-hoist-on-20-ft-span-ibeam-sling-calculator.html</link>
       <guid>https://hanifsalman11.github.io/hoist-beam-index/1-ton-2000-lb-overhead-hoist-on-20-ft-span-ibeam-sling-calculator.html</guid>
@@ -179,12 +185,6 @@
       <link>https://hanifsalman11.github.io/hoist-beam-index/electric-chain-hoist-near-me-ibeam-sling-calculator.html</link>
       <guid>https://hanifsalman11.github.io/hoist-beam-index/electric-chain-hoist-near-me-ibeam-sling-calculator.html</guid>
       <description>Calculate exact A36 steel I-beam deflection (0.122" vs 0.24" L/600 limit on W8×24 Wide-Flange), 5.5" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for Electric Chain Hoist Near Me.</description>
-    </item>
-    <item>
-      <title>Electric Chain Hoist 1/2 Ton I-Beam Deflection, Trolley & Sling Angle Calculator (2026)</title>
-      <link>https://hanifsalman11.github.io/hoist-beam-index/electric-chain-hoist-12-ton-ibeam-sling-calculator.html</link>
-      <guid>https://hanifsalman11.github.io/hoist-beam-index/electric-chain-hoist-12-ton-ibeam-sling-calculator.html</guid>
-      <description>Calculate exact A36 steel I-beam deflection (0.122" vs 0.24" L/600 limit on W8×24 Wide-Flange), 5.5" trolley flange fit, and ASME B30.9 2-leg sling tension (2,309 lbs @ 60°) for Electric Chain Hoist 1/2 Ton.</description>
     </item>
   </channel>
 </rss>
