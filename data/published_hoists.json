@@ -922,5 +922,16 @@
     "beam": "W6×12",
     "defl": 0.201,
     "date": "2026-11-27"
+  },
+  {
+    "hoist_name": "1.5-Ton (3,000 Lb) Overhead Hoist on 12-Ft Span",
+    "slug": "15-ton-3000-lb-overhead-hoist-on-12-ft-span-ibeam-sling-calculator",
+    "title": "1.5-Ton (3,000 Lb) Overhead Hoist on 12-Ft Span I-Beam Deflection, Trolley & Sling Angle Calculator (2026)",
+    "description": "Calculate exact A36 steel I-beam deflection (0.124\" vs 0.24\" L/600 limit on W8×18 Wide-Flange), 5.25\" trolley flange fit, and ASME B30.9 2-leg sling tension (1,732 lbs @ 60°) for 1.5-Ton (3,000 Lb) Overhead Hoist on 12-Ft Span.",
+    "tons": 1.5,
+    "span_ft": 12,
+    "beam": "W8×18",
+    "defl": 0.124,
+    "date": "2026-11-28"
   }
 ]
